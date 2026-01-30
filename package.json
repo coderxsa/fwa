@@ -16,7 +16,7 @@
     "@discordjs/collection": "^1.4.0",
     "@hapi/boom": "^10.0.1",
     "consolefy": "^1.0.1",
-    "baileys": "^7.0.0-rc.6",
+    "baileys": "^7.0.0-rc.9",
     "pino": "^8.11.0",
     "qrcode-terminal": "^0.12.0"
   },
